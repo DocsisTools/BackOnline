@@ -1,2 +1,4 @@
-﻿# night_shift_stage
-https://we.tl/t-D0f9p2Gjz1
+# read_me
+Compile the code and run from main.
+
+MD5 checksum: d41d8cd98f00b204e9800998ecf8427e
